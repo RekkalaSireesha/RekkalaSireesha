@@ -60,13 +60,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RekkalaSireesha&theme=onedark&margin-w=10"/>
-</p>
-
----
 
 ## 👀 Profile Views
 
