@@ -11,7 +11,7 @@
 - 🎨 Interested in UI/UX Design and creating seamless user experiences
 - 📚 Solving Data Structures & Algorithms using Java
 - 🚀 Always exploring new frontend technologies and best practices
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **rekkalasireesha@gmail.com**
 ---
 
 ## 🌐 Connect with Me
@@ -36,6 +36,9 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,git,github,docker,vscode"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,django,git,github,vscode" />
 </p>
 
 ---
