@@ -26,9 +26,9 @@
 </a>
 
 <a href="mailto:rekkalasireesha@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-</p>
+
 
 ---
 
