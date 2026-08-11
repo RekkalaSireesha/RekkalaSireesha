@@ -45,13 +45,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RekkalaSireesha&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=RekkalaSireesha&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RekkalaSireesha&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=RekkalaSireesha&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=RekkalaSireesha&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RekkalaSireesha&layout=compact&theme=tokyonight)
 
 ---
 
