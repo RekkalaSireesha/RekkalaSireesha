@@ -7,7 +7,7 @@
 
 - 🎓 B.Tech Student
 - 💻 Frontend Developer passionate about crafting beautiful and responsive user interfaces
-- 🌱 Currently learning **React.js, JavaScript, Tailwind CSS, and modern frontend development**
+- 🌱 Currently learning **Node.js, JavaScript, Tailwind CSS, and modern frontend development**
 - 🎨 Interested in UI/UX Design and creating seamless user experiences
 - 📚 Solving Data Structures & Algorithms using Java
 - 🚀 Always exploring new frontend technologies and best practices
