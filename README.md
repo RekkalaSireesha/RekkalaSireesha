@@ -35,10 +35,10 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js/>
+<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=django,git,github,vscode"/>
 </p>
 
 ---
