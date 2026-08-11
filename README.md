@@ -35,10 +35,10 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,git,github,docker,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,django,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=django,git,github,vscode" />
 </p>
 
 ---
@@ -46,11 +46,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RekkalaSireesha&show_icons=true&theme=tokyonight"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RekkalaSireesha&theme=tokyonight"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RekkalaSireesha&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RekkalaSireesha&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=RekkalaSireesha&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RekkalaSireesha&layout=compact&theme=tokyonight" />
 </p>
 
 ---
