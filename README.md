@@ -47,7 +47,7 @@
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=RekkalaSireesha&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=RekkalaSireesha&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RekkalaSireesha&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RekkalaSireesha&layout=compact&theme=tokyonight)
 
@@ -66,11 +66,15 @@
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=RekkalaSireesha&label=Profile%20Views&color=blue&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=RekkalaSireesha&label=Profile%20Views&color=blue&style=flat" />
 </p>
+
 
 ---
 
-> **"Code. Learn. Build. Repeat."**
+> 🚀 **Learn • Build • Innovate • Grow**
 
-⭐ Thanks for visiting my profile!
+✨ Welcome to my GitHub profile!
+💻 Exploring technologies • 🛠️ Building projects • 📚 Learning continuously
+
+⭐ **Thanks for stopping by — feel free to explore my work!**
